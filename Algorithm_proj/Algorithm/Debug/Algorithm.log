@@ -1,0 +1,24 @@
+﻿  karatsuba.cpp
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(44,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(44,59): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(69,21): warning C4018: '<': signed/unsigned mismatch
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(72,10): warning C4018: '<=': signed/unsigned mismatch
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(91,21): warning C4018: '<': signed/unsigned mismatch
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(94,10): warning C4018: '<=': signed/unsigned mismatch
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(137,20): warning C4018: '<': signed/unsigned mismatch
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(140,9): warning C4018: '<=': signed/unsigned mismatch
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(237,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(237,48): warning C4018: '<': signed/unsigned mismatch
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(249,21): warning C4018: '<': signed/unsigned mismatch
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(263,20): warning C4018: '<': signed/unsigned mismatch
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(265,53): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(265,57): warning C4244: '+=': conversion from 'float' to 'long', possible loss of data
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(267,20): warning C4018: '<': signed/unsigned mismatch
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(269,53): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(269,57): warning C4244: '+=': conversion from 'float' to 'long', possible loss of data
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(305,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Codes\Algorithm_proj\Algorithm\karatsuba.cpp(306,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Algorithm.vcxproj -> E:\Codes\Algorithm_proj\Debug\Algorithm.exe
